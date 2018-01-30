@@ -1,8 +1,8 @@
 # Material Business Website
 Mit dieser Website Vorlage können Sie mit einem modernen und responsiven Design perfekt Ihre Firma präsentieren.
-<div style="text-align:center">
-[![Open Demo](http://image.prntscr.com/image/87daa830f2714875b7e936653701280d.png)](http://silas229.pe.hu/materialize/ "Open Demo")<br>
-<div style="text-align:left">
+[![Open Demo](
+http://image.prntscr.com/image/87daa830f2714875b7e936653701280d.png)](http://silas229.de/materialize/
+"Open Demo")
 ## Vorraussetzungen
 Um diese Vorlage zu benutzen, benötigen sie nur einfachste HTML-Kenntnisse. Wenn Sie sich HTML beibringen wollen, finden Sie [hier (deutsch)](http://wiki.selfhtml.de "SelfHTML") oder [hier (englisch)](http://w3schools.com/html/ "W3Schools") gute Hilfen.<br>
 Die Vorlage verwendet die CSS-Bibliothek [Materialize](http://materializecss.com "Materialize CSS-Biblothek"). Auf der Internetseite wird genau beschreiben wie sie die einzelnen Elemente verwenden müssen.
@@ -33,16 +33,13 @@ Beispielsweise ist die Startseite folgend gegliedert:<br>
 |--footer.php
 ```
 ## Screenshots
-<div style="text-align:center">
-Startseite | Über Uns | Kontakt | Impressum
---- | --- | --- | ---
-![Screenshot](http://image.prntscr.com/image/f1262a39996b44cbaa6fac5c235bd262.png) | ![Screenshot]() | ![Screenshot]() | ![Screenshot]()
-<div style="text-align:left">
+Startseite | Über Uns | Kontakt | Impressum | Mobil
+--- | --- | --- | --- | ---
+![Screenshot Startseite](https://www.silas229.de/materialize/img/Home.png) | ![Screenshot Über Uns](https://www.silas229.de/materialize/img/About.png) | ![Screenshot Kontakt](https://www.silas229.de/materialize/img/Kontakt.png) | ![Screenshot Impressum](https://www.silas229.de/materialize/img/Impressum.png) | ![Screenshot Mobil](https://www.silas229.de/materialize/img/Mobil.png)
 ## Lizenz
 Diese Vorlage verwendet jQuery, Materialize und Material Icons.
 Wenn du diese Vorlage verwenden möchtest, füge bitte folgenden HTML-Code (z. B. in eine extra Lizenz-Seite oder unter das Impressum) ein:
-```<div>
-Design: <a href="http://github.com/silas229/Material-Business-Website/" target="_blank">Material Business Website</a> by <a href="http://silas229.pe.hu/" target="_blank">Silas_229</a> uses <a href="http://materializecss.com/" target="_blank">Materialize</a> and <a href="http://jquery.com/" target="_blank">jQuery</a>.
 ```
-<div style="text-align:center">
+Design: <a href="http://github.com/silas229/Material-Business-Website/" target="_blank">Material Business Website</a> by <a href="http://silas229.de/" target="_blank">Silas_229</a> using <a href="http://materializecss.com/" target="_blank">Materialize</a> and <a href="http://jquery.com/" target="_blank">jQuery</a>.
+```
 [![Download](http://image.prntscr.com/image/e42e46c1df634bae9583f0aaebbfb446.png)](http://silas229.pe.hu/materialize/ "Download")<br>
