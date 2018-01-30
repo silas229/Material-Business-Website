@@ -42,4 +42,4 @@ Wenn du diese Vorlage verwenden möchtest, füge bitte folgenden HTML-Code (z. B
 ```
 Design: <a href="http://github.com/silas229/Material-Business-Website/" target="_blank">Material Business Website</a> by <a href="http://silas229.de/" target="_blank">Silas_229</a> using <a href="http://materializecss.com/" target="_blank">Materialize</a> and <a href="http://jquery.com/" target="_blank">jQuery</a>.
 ```
-[![Download](http://image.prntscr.com/image/e42e46c1df634bae9583f0aaebbfb446.png)](http://silas229.pe.hu/materialize/ "Download")<br>
+[![Download](http://image.prntscr.com/image/e42e46c1df634bae9583f0aaebbfb446.png)](http://silas229.pe.de/materialize/ "Download")<br>
